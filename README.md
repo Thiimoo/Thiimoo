@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiimoo
 - 👀 I’m interested in java coding
-- 🌱 I’m currently learning to use the ForkJoinPool
+- 🌱 I’m currently learning to not use stackoverflow.com when coding :)
 - 💞️ I’m looking to collaborate on something amazing i guess
 - 📫 How to reach me timo.reitboeck@gmx.at
 -
